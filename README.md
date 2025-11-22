@@ -53,11 +53,28 @@ in the robotics and AI ecosystem.
 
 ---
 
-### 📈 GitHub Analytics
+## 📊 GitHub Stats (Light + Dark Mode Auto)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MedisettiRenukeswar&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MedisettiRenukeswar&layout=compact&theme=tokyonight" height="180"/>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=MedisettiRenukeswar&show_icons=true&theme=tokyonight" media="(prefers-color-scheme: dark)">
+    <source srcset="https://github-readme-stats.vercel.app/api?username=MedisettiRenukeswar&show_icons=true&theme=default" media="(prefers-color-scheme: light)">
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=MedisettiRenukeswar" />
+  </picture>
+  
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MedisettiRenukeswar&layout=compact&theme=tokyonight" media="(prefers-color-scheme: dark)">
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MedisettiRenukeswar&layout=compact&theme=default" media="(prefers-color-scheme: light)">
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedisettiRenukeswar&layout=compact" />
+  </picture>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MedisettiRenukeswar&theme=tokyonight" height="180"/>
 </p>
 
 ---
