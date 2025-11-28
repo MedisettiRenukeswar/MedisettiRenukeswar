@@ -56,19 +56,22 @@ in the robotics and AI ecosystem.
 ## 📊 GitHub Stats (Light + Dark Mode Auto)
 
 <p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=MedisettiRenukeswar&show_icons=true&theme=tokyonight" media="(prefers-color-scheme: dark)">
-    <source srcset="https://github-readme-stats.vercel.app/api?username=MedisettiRenukeswar&show_icons=true&theme=default" media="(prefers-color-scheme: light)">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=MedisettiRenukeswar" />
-  </picture>
-  
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MedisettiRenukeswar&layout=compact&theme=tokyonight" media="(prefers-color-scheme: dark)">
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MedisettiRenukeswar&layout=compact&theme=default" media="(prefers-color-scheme: light)">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedisettiRenukeswar&layout=compact" />
-  </picture>
-</p>
 
+  <!-- GitHub Stats -->
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=MedisettiRenukeswar&show_icons=true&theme=tokyonight&cache_seconds=1800" media="(prefers-color-scheme: dark)">
+    <source srcset="https://github-readme-stats.vercel.app/api?username=MedisettiRenukeswar&show_icons=true&theme=default&cache_seconds=1800" media="(prefers-color-scheme: light)">
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=MedisettiRenukeswar&cache_seconds=1800" />
+  </picture>
+
+  <!-- Top Languages -->
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MedisettiRenukeswar&layout=compact&langs_count=10&hide=html,css,javascript&theme=tokyonight&cache_seconds=1800" media="(prefers-color-scheme: dark)">
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MedisettiRenukeswar&layout=compact&langs_count=10&hide=html,css,javascript&theme=default&cache_seconds=1800" media="(prefers-color-scheme: light)">
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedisettiRenukeswar&layout=compact&langs_count=10&hide=html,css,javascript&cache_seconds=1800" />
+  </picture>
+
+</p>
 ---
 
 ## 🔥 Contribution Streak
