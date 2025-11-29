@@ -70,7 +70,6 @@ in the robotics and AI ecosystem.
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MedisettiRenukeswar&layout=compact&langs_count=10&hide=html,css,javascript&theme=default&cache_seconds=1800" media="(prefers-color-scheme: light)">
     <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedisettiRenukeswar&layout=compact&langs_count=10&hide=html,css,javascript&cache_seconds=1800" />
   </picture>
-
 </p>
 ---
 
