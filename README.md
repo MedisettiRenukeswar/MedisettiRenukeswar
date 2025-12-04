@@ -100,6 +100,7 @@ Dadi Institute of Engineering and Technology | **2021–2025**
 ### 📬 Contact
 
 📱 Phone: **+91 6304760922**
+
 📧 Email: **medisettirenukeswar83@gmail.com**    
 🔗 LinkedIn: **https://www.linkedin.com/in/renukeswar-medisetti-rk/**  
 🐙 GitHub: **https://github.com/MedisettiRenukeswar**  
