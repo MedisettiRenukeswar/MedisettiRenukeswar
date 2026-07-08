@@ -118,6 +118,7 @@ ZPHS Pochireddypally, Nalgonda | **2018 – 2019** | GPA: 9.3/10
 🔗 LinkedIn: **https://www.linkedin.com/in/renukeswar-medisetti-rk/**  
 🐙 GitHub: **https://github.com/MedisettiRenukeswar**  
 🌐 Portfolio: **https://medisettirenukeswar.github.io/Portfolio/**
+<a href="https://www.researchgate.net/profile/Medisetti-Renukeswar">Medisetti Renukeswar on ResearchGate</a>
  
 ---
  
